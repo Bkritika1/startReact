@@ -5,6 +5,8 @@ import MyButton from './MyButton'
 import Profile from './Profile'  
 import ProductList from './ProductList'
 import './App.css'
+import Congratulation from './congratulation'
+import Sculpture from './Sculpture'
 
 function App() {
 
@@ -32,6 +34,8 @@ function App() {
       <div>Second div</div>
       <Profile/>
       <ProductList/>
+      <Congratulation/>
+      <Sculpture/>
     </>
   )
 }
