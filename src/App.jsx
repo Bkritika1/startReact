@@ -7,6 +7,7 @@ import ProductList from './ProductList'
 import './App.css'
 import Congratulation from './congratulation'
 import Sculpture from './Sculpture'
+import Counter from './Counter'
 
 function App() {
 
@@ -36,6 +37,7 @@ function App() {
       <ProductList/>
       <Congratulation/>
       <Sculpture/>
+      <Counter/>
     </>
   )
 }
