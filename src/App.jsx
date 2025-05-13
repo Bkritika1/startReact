@@ -8,7 +8,7 @@ import './App.css'
 import Congratulation from './congratulation'
 import Sculpture from './Sculpture'
 import Counter from './Counter'
-
+import MovingDot from './MovingDot'
 function App() {
 
   return (
@@ -38,6 +38,7 @@ function App() {
       <Congratulation/>
       <Sculpture/>
       <Counter/>
+      <MovingDot/>
     </>
   )
 }
