@@ -11,6 +11,8 @@ import Counter from './Counter'
 import MovingDot from './MovingDot'
 import FormMaking from './FormMaking'
 import AddingArray from './AddingArray'
+import RemovingArray from './RemovingArray'
+import TransformingArray from './TransformingArray'
 function App() {
 
   return (
@@ -43,6 +45,8 @@ function App() {
       <MovingDot/>
       <FormMaking/>
       <AddingArray/>
+      <RemovingArray/>
+      <TransformingArray/>
     </>
   )
 }
