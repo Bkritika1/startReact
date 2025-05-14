@@ -9,6 +9,8 @@ import Congratulation from './congratulation'
 import Sculpture from './Sculpture'
 import Counter from './Counter'
 import MovingDot from './MovingDot'
+import FormMaking from './FormMaking'
+import AddingArray from './AddingArray'
 function App() {
 
   return (
@@ -39,6 +41,8 @@ function App() {
       <Sculpture/>
       <Counter/>
       <MovingDot/>
+      <FormMaking/>
+      <AddingArray/>
     </>
   )
 }
