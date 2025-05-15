@@ -29,6 +29,27 @@
   height: auto;
   border: 2px solid red;
 }
+.background {
+  background-color: transparent;
+  padding: 50px;
+  transition: background-color 0.3s;
+}
+
+.background--active {
+  background-color: rebeccapurple;
+}
+
+.picture {
+  border: 5px solid transparent;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: border-color 0.3s;
+}
+
+.picture--active {
+  border-color: gold;
+}
+
 
 @keyframes logo-spin {
   from {

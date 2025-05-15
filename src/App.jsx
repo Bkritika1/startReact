@@ -13,6 +13,7 @@ import FormMaking from './FormMaking'
 import AddingArray from './AddingArray'
 import RemovingArray from './RemovingArray'
 import TransformingArray from './TransformingArray'
+import Background from './Background'
 function App() {
 
   return (
@@ -47,6 +48,7 @@ function App() {
       <AddingArray/>
       <RemovingArray/>
       <TransformingArray/>
+      <Background/>
     </>
   )
 }
