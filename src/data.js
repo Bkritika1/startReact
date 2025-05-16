@@ -67,11 +67,5 @@ export const sculptureList = [{
     description: 'Shettar merges the traditional and the modern, the natural and the industrial. Her art focuses on the relationship between man and nature. Her work was described as compelling both abstractly and figuratively, gravity defying, and a "fine synthesis of unlikely materials."',
     url: 'https://i.imgur.com/okTpbHhm.jpg',
     alt: 'A pale wire-like sculpture mounted on concrete wall and descending on the floor. It appears light.'
-  }, {
-    name: 'Hippos',
-    artist: 'Taipei Zoo',
-    description: 'The Taipei Zoo commissioned a Hippo Square featuring submerged hippos at play.',
-    url: 'https://i.imgur.com/6o5Vuyu.jpg',
-    alt: 'A group of bronze hippo sculptures emerging from the sett sidewalk as if they were swimming.'
-  }];
+  },];
   

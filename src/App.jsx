@@ -14,6 +14,7 @@ import AddingArray from './AddingArray'
 import RemovingArray from './RemovingArray'
 import TransformingArray from './TransformingArray'
 import Background from './Background'
+import ReactForm from './ReactForm'
 function App() {
 
   return (
@@ -49,6 +50,7 @@ function App() {
       <RemovingArray/>
       <TransformingArray/>
       <Background/>
+      <ReactForm/>
     </>
   )
 }
