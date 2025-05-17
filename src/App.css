@@ -49,6 +49,10 @@
 .picture--active {
   border-color: gold;
 }
+.panel{
+  border: 1px solid greenyellow;
+}
+
 
 
 @keyframes logo-spin {

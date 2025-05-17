@@ -15,6 +15,8 @@ import RemovingArray from './RemovingArray'
 import TransformingArray from './TransformingArray'
 import Background from './Background'
 import ReactForm from './ReactForm'
+import Accordion from './Accordion'
+import SyncedInputs from './SyncedInputs'
 function App() {
 
   return (
@@ -51,6 +53,8 @@ function App() {
       <TransformingArray/>
       <Background/>
       <ReactForm/>
+      <Accordion/>
+      <SyncedInputs/>
     </>
   )
 }
