@@ -17,6 +17,7 @@ import Background from './Background'
 import ReactForm from './ReactForm'
 import Accordion from './Accordion'
 import SyncedInputs from './SyncedInputs'
+import Anthing from './Anthing'
 function App() {
 
   return (
@@ -55,6 +56,7 @@ function App() {
       <ReactForm/>
       <Accordion/>
       <SyncedInputs/>
+      <Anthing/>
     </>
   )
 }
