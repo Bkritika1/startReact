@@ -3,7 +3,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import MyButton from './MyButton'
 import Profile from './Profile'  
-import ProductList from './ProductList'
+// import ProductList from './ProductList'
 import './App.css'
 import Congratulation from './congratulation'
 import Sculpture from './Sculpture'
@@ -18,6 +18,8 @@ import ReactForm from './ReactForm'
 import Accordion from './Accordion'
 import SyncedInputs from './SyncedInputs'
 import Anthing from './Anthing'
+import TaskList from './TaskList'
+import TaskApp from './TaskApp'
 function App() {
 
   return (
@@ -43,7 +45,7 @@ function App() {
 
       <div>Second div</div>
       <Profile/>
-      <ProductList/>
+      {/* <ProductList/> */}
       <Congratulation/>
       <Sculpture/>
       <Counter/>
@@ -57,6 +59,7 @@ function App() {
       <Accordion/>
       <SyncedInputs/>
       <Anthing/>
+      <TaskApp/>
     </>
   )
 }
